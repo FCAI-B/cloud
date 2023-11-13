@@ -7,6 +7,7 @@ Please do the following labs (before 29 November)
 ```diff
 + Please do the steps as mentioned in the labs exactly, 
 - including the "Lab complete" steps (click on End Lab).
+! Please keep your real Arabic name and your Edu mail (fci.bu.edu.eg)
 ```
 
 ### Generic Note
