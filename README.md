@@ -1,4 +1,9 @@
-
+### Sunday 26 Nov. Note
+<!--
+```diff
+-  Due to the other years' exams in the same lecture hall, our lecture will be postponed 
+```
+-->
 
 ### AWS Academy Course
 Please do the following labs (before 29 November)
