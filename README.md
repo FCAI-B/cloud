@@ -1,6 +1,6 @@
 
 ### AWS Academy Course
-Please do the following labs (before 29 November)
+Please do the following labs (<ins>deadline updated to **3 December**</ins>)
 - Creating a Virtual Private Cloud
 - Creating a VPC Networking Environment for the Cafe
 ```diff
