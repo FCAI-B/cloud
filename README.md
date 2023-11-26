@@ -1,8 +1,3 @@
-### Sunday 26 Nov. Note
-
-```diff
--  Due to the other years' exams, our lecture will be postponed 
-```
 
 ### AWS Academy Course
 Please do the following labs (before 29 November)
@@ -19,6 +14,14 @@ Please do the following labs (before 29 November)
 + You can enter the lecture after we start,
 - ONLY from the BACK Door of the lecturer's room.
 ```
+
+<!--
+### Sunday 26 Nov. Note
+
+```diff
+-  Due to the other years' exams, our lecture will be postponed 
+```
+-->
 
 <!-- # Cloud
 ```diff
