@@ -1,4 +1,8 @@
 ### Sunday 26 Nov. Note
+```diff
+- بعد اذنك ي دكتور مفيش اميل اتبعتلي Mohammed20726@fci.bu.edu.eg
+```
+
 
 ```diff
 -  Due to the other years' exams, our lecture will be postponed 
