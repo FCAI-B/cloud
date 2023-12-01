@@ -3,11 +3,25 @@
 Please do the following labs (<ins>deadline updated to **3 December**</ins>)
 - Creating a Virtual Private Cloud
 - Creating a VPC Networking Environment for the Cafe
+
+Next Labs
+- Module 7 Guided Lab - Creating a VPC Peering Connection
+- Module 9 Guided Lab - Creating a Highly Available Environment
+
 ```diff
 + Please do the steps as mentioned in the labs exactly, 
 - including the "Lab complete" steps (click on End Lab).
 ! Please keep your complete real Arabic name and your Edu mail (fci.bu.edu.eg) in your profile.
 ```
+
+<!--
+Module 9 Challenge Lab - Creating a Scalable and Highly Available Environment for the Cafe
+Module 11 Guided Lab - Streaming Dynamic Content using Amazon CloudFront
+
+(Optional) Module 13 - Guided Lab 1: Breaking a Monolithic Node.js Application into Microservices
+Module 13 Guided Lab - Implementing a Serverless Architecture with AWS Lambda
+Module 13 Challenge Lab - Implementing a Serverless Architecture for the Cafe
+-->
 
 ### Generic Note
 ```diff
