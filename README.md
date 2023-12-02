@@ -10,9 +10,9 @@ Next Labs
 
 ```diff
 + Please do the steps as mentioned in the labs exactly, 
-- including the "Lab complete" steps (click on End Lab).
 ! Please keep your complete real Arabic name and your Edu mail (fci.bu.edu.eg) in your profile.
 ```
+<!-- - including the "Lab complete" steps (click on End Lab). -->
 
 <!--
 Module 9 Challenge Lab - Creating a Scalable and Highly Available Environment for the Cafe
