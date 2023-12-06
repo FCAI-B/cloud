@@ -1,7 +1,7 @@
 
 ### AWS Academy Course
 
-Please do the following labs (<ins>deadline updated to **12 December**</ins>)
+Please do the following labs (<ins>deadline **12 December**</ins>)
 - Module 7 Guided Lab - Creating a VPC Peering Connection
 - Module 9 Guided Lab - Creating a Highly Available Environment
 
