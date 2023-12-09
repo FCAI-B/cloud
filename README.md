@@ -5,6 +5,13 @@ Please do the following labs (<ins>deadline **12 December**</ins>)
 - Module 7 Guided Lab - Creating a VPC Peering Connection
 - Module 9 Guided Lab - Creating a Highly Available Environment
 
+### Zoom Link
+https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
+```diff
++ Our next lecture will be on Monday at 7:30 pm.
+```
+
+
 <!--
 Please do the following labs (<ins>deadline **3 December**</ins>)
 - Creating a Virtual Private Cloud
