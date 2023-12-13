@@ -4,6 +4,10 @@ https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 + Our next lecture will be on Monday at 7:30 pm.
 ```
 
+### Practical Demo
+- https://youtu.be/99y8G79UGws
+- You may be asked about what is in the video in the final exam.
+
 ### AWS Academy Course
 Please do the following labs (<ins>deadline **22 December**</ins>)
 - Module 11 Guided Lab: Streaming Dynamic Content using Amazon CloudFront
@@ -16,6 +20,9 @@ Please do the following labs (<ins>deadline **22 December**</ins>)
 - There will be a badge and completion certificate for those who complete all the labs and knowledge checks (all theoretical parts).
 - AWS may organize a competition between students from all over Egypt in the second term.
 -->
+
+
+
 
 <!--
 Please do the following labs (<ins>deadline **12 December**</ins>)
