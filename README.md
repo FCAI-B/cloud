@@ -6,10 +6,10 @@ https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 
 ### Practical Demo
 - https://youtu.be/99y8G79UGws
-- You may be asked about what is in the video in the final exam.
+- You may be asked about what is in the video in the final exam, including command lines.
 
 ### AWS Academy Course
-Please do the following labs (<ins>deadline **22 December**</ins>)
+Please do the following labs (<ins>deadline **19 December**</ins>)
 - Module 11 Guided Lab: Streaming Dynamic Content using Amazon CloudFront
 - Module 13 Guided Lab: Breaking a Monolithic Node.js Application into Microservices
 
