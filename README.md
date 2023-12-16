@@ -1,7 +1,8 @@
 ### Zoom Link
 https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 ```diff
-+ Our next lecture will be on Monday at 7:30 pm.
++ We finished the lectures. I wish you all good luck with your exams.
+! I will be available online next Monday at 7:30 pm to update you on AWS Academy.
 ```
 
 ### Practical Demo
