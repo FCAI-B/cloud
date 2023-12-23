@@ -1,27 +1,32 @@
+### Practical Demo
+- https://youtu.be/99y8G79UGws
+- **Important:** You may be asked about what is in the video in the final exam, including command lines.
+
+### AWS Academy Course and enhance your degrees (Ponus)
+- For all who need to increase their degrees (such as for the Midterm Exam), please do labs and knowledge checks as you can.
+```diff
+- The deadline is 31 Dec.
+```
+
+### AWS Academy
+- Please do labs and answer questions as you can.
+- There will be a badge and completion certificate for those who complete all the labs and knowledge checks (all theoretical parts).
+- AWS **may** organize a competition between students from all over Egypt in the second term.
+  
+<!--
+Please do the following labs (<ins>deadline **22 December**</ins>)
+- Module 11 Guided Lab: Streaming Dynamic Content using Amazon CloudFront
+- Module 13 Guided Lab: Breaking a Monolithic Node.js Application into Microservices
+-->
+
+<!--
 ### Zoom Link
 https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
 ```diff
 + We finished the lectures. I wish you all good luck with your exams.
 ! I will be available online next Monday at 7:30 pm to update you on AWS Academy.
 ```
-
-### Practical Demo
-- https://youtu.be/99y8G79UGws
-- You may be asked about what is in the video in the final exam, including command lines.
-
-### AWS Academy Course
-Please do the following labs (<ins>deadline **22 December**</ins>)
-- Module 11 Guided Lab: Streaming Dynamic Content using Amazon CloudFront
-- Module 13 Guided Lab: Breaking a Monolithic Node.js Application into Microservices
-
-### Enhance your degrees (Ponus)
-- For all who need to increase their degrees (such as for the Midterm Exam), please do other labs and knowledge checks as you can.
-<!--
-###please do labs and answer questions as you can.
-- There will be a badge and completion certificate for those who complete all the labs and knowledge checks (all theoretical parts).
-- AWS may organize a competition between students from all over Egypt in the second term.
 -->
-
 
 
 
