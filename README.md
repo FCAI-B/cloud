@@ -5,8 +5,9 @@
 ### AWS Academy Course and enhance your degrees (Ponus)
 - For all who need to increase their degrees (such as for the Midterm Exam), please do labs and knowledge checks as you can.
 ```diff
-- The deadline is 31 Dec.
++ It is still open till 23 Jan. but with fewer degrees compared for who did it on time
 ```
+<!-- - The deadline is 31 Dec. -->
 
 ### AWS Academy
 - Please do labs and answer questions as you can.
