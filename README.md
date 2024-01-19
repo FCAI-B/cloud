@@ -2,6 +2,10 @@
 - https://youtu.be/99y8G79UGws
 - **Important:** You may be asked about what is in the video in the final exam, including command lines.
 
+### Recorded Last Lecture
+- https://youtu.be/HlRAzFeutVw
+- https://youtu.be/tmw8PdNgri0
+
 ### AWS Academy Course and enhance your degrees (Ponus)
 - For all who need to increase their degrees (such as for the Midterm Exam), please do labs and knowledge checks as you can.
 ```diff
