@@ -1,3 +1,5 @@
+
+<!--
 ### Practical Demo
 - https://youtu.be/99y8G79UGws
 - **Important:** You may be asked about what is in the video in the final exam, including command lines.
@@ -11,6 +13,7 @@
 ```diff
 + It is still open till 23 Jan. but with fewer degrees compared for who did it on time
 ```
+-->
 <!-- - The deadline is 31 Dec. -->
 
 ### AWS Academy
