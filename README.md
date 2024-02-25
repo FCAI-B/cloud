@@ -1,4 +1,4 @@
-
+# Cloud
 <!--
 ### Practical Demo
 - https://youtu.be/99y8G79UGws
@@ -19,6 +19,7 @@
 ### AWS Academy
 - Please do labs and answer questions as you can.
 - There will be a badge and completion certificate for those who complete all the labs and knowledge checks (all theoretical parts).
+- AWS **may** organize a competition between students from all over Egypt in the second term.
 --> 
 
  
