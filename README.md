@@ -15,12 +15,13 @@
 ```
 -->
 <!-- - The deadline is 31 Dec. -->
-
+<!--
 ### AWS Academy
 - Please do labs and answer questions as you can.
 - There will be a badge and completion certificate for those who complete all the labs and knowledge checks (all theoretical parts).
+--> 
 - AWS **may** organize a competition between students from all over Egypt in the second term.
-  
+ 
 <!--
 Please do the following labs (<ins>deadline **22 December**</ins>)
 - Module 11 Guided Lab: Streaming Dynamic Content using Amazon CloudFront
