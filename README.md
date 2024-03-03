@@ -1,4 +1,9 @@
 # Cloud
+
+### For 1st Term Course
+- For those who completed the course, please check your inbox (including the spam and junk folders) for a badge from Credly. 
+- Once accepting the Credly badge, you will receive an invite to the Emerging Talent community and the opportunity to earn a certification exam voucher.
+
 <!--
 ### Practical Demo
 - https://youtu.be/99y8G79UGws
