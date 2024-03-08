@@ -1,5 +1,16 @@
 # Cloud
 
+### Zoom
+- https://us05web.zoom.us/j/82861851614?pwd=1KCjaJbmRJvzLje2Kab3MuZVXNMuSL.1
+- Saturday 03:00 pm
+
+### Adding to AWS Academy
+If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
+- Your full Arabic name, as shown on your official faculty ID
+- Your program IS, SC, AI, ...
+- Your level 4th, 3rd, 2nd, ...
+- Your course name 
+
 ### For 1st Term Course
 - For those who completed the course, please check your inbox (including the spam and junk folders) for a badge from Credly. 
 - Once accepting the Credly badge, you will receive an invite to the Emerging Talent community and the opportunity to earn a certification exam voucher.
