@@ -11,6 +11,10 @@ If you are not added, please send an email from your Academic mail (ended by fci
 - Your level 4th, 3rd, 2nd, ...
 - Your course name 
 
+ ```diff
+- After being added to AWS Academy, please keep your email and Arabic Full name as it is
+``` 
+
 ### For 1st Term Course
 - For those who completed the course, please check your inbox (including the spam and junk folders) for a badge from Credly. 
 - Once accepting the Credly badge, you will receive an invite to the Emerging Talent community and the opportunity to earn a certification exam voucher.
