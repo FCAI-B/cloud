@@ -7,9 +7,9 @@
 ### Adding to AWS Academy
 If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
 - Your full Arabic name, as shown on your official faculty ID
-- Your program IS, SC, AI, ...
-- Your level 4th, 3rd, 2nd, ...
-- Your course name 
+- Your program (IS, SC, AI, ...)
+- Your level (4th, 3rd, 2nd, ...)
+- Your course name (Cloud, Data Analytics, ...)
 
  ```diff
 - After being added to AWS Academy, please keep your email and Arabic Full name as it is
