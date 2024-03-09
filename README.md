@@ -1,5 +1,10 @@
 # Cloud
 
+### Lectures
+- Lectures 1 and 2: please check the above PDF files
+- Lectures 3: please check the AWS Academy course: Module 3 Student Guide 
+---
+
 ### Tasks to do
 Please do the following (<ins>deadline **23 March**</ins>)
 - Module 3 Guided Lab - Hosting a Static Website
