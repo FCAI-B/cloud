@@ -1,8 +1,19 @@
 # Cloud
 
+### Tasks to do
+Please do the following (<ins>deadline **23 March**</ins>)
+- Module 3 Guided Lab - Hosting a Static Website
+- Module 3 Challenge Lab - Creating a Static Website for the Cafe
+- Module 3 Knowledge Check
+
+Please do the following (<ins>deadline **15 March**</ins>)
+- Module 2 Knowledge Check
+---
+
 ### Zoom
 - https://us05web.zoom.us/j/82861851614?pwd=1KCjaJbmRJvzLje2Kab3MuZVXNMuSL.1
 - Saturday 03:00 pm
+---
 
 ### Adding to AWS Academy
 If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
