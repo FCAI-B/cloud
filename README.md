@@ -27,6 +27,7 @@ If you are not added, please send an email from your Academic mail (ended by fci
 + The purpose of the previous point is to be sure you have your correct degrees based on your work in the course
 ! Furthermore, AWS Academy is an academic platform, so we need to use our Academic emails
 ``` 
+---
 
 ### For 1st Term Course
 - For those who completed the course, please check your inbox (including the spam and junk folders) for a badge from Credly. 
