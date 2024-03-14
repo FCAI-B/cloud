@@ -20,7 +20,7 @@ Please do the following (<ins>deadline **15 March**</ins>)
 - Saturday 03:00 pm
 ---
 
-### Adding to AWS Academy
+### Adding to AWS Academy (or any other online Academy)
 If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
 - Your full Arabic name, as shown on your official faculty ID
 - Your program (IS, SC, AI, ...)
