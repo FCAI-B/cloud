@@ -16,8 +16,10 @@ Please do the following (<ins>deadline **23 March**</ins>)
 - Module 3 Challenge Lab - Creating a Static Website for the Cafe
 - Module 3 Knowledge Check
 
+<!--
 Please do the following (<ins>deadline **15 March**</ins>)
 - Module 2 Knowledge Check
+-->
 ---
 
 ### Zoom
