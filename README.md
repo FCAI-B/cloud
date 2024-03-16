@@ -2,7 +2,8 @@
 
 ### Lectures
 - Lectures 1 and 2: please check the above PDF files
-- Lectures 3: please check the AWS Academy course: Module 3 Student Guide 
+- Lectures 3: please check the AWS Academy course: Module 3 Student Guide
+- Lectures 4: please check the AWS Academy course: Module 4 Student Guide
 ---
 
 ### Tasks to do
