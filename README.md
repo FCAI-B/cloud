@@ -13,12 +13,13 @@ Please do the following (<ins>deadline **31 March**</ins>)
 Please do the following (<ins>deadline **28 March**</ins>)
 - Module 4 Guided Lab - Introducing Amazon Elastic File System (Amazon EFS)
 - Module 4 Challenge Lab - Creating a Dynamic Website for the Cafe
- 
+
+ <!--
 Please do the following (<ins>deadline **23 March**</ins>)
 - Module 3 Guided Lab - Hosting a Static Website
 - Module 3 Challenge Lab - Creating a Static Website for the Cafe
 - Module 3 Knowledge Check
-
+-->
 <!--
 Please do the following (<ins>deadline **15 March**</ins>)
 - Module 2 Knowledge Check
