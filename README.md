@@ -10,7 +10,7 @@
 Please do the following (<ins>deadline **31 March**</ins>)
 - Module 4 Knowledge Check
  
-Please do the following (<ins>deadline **28 March**</ins>)
+Please do the following (<ins>deadline **31 March** *(extended)*</ins>)
 - Module 4 Guided Lab - Introducing Amazon Elastic File System (Amazon EFS)
 - Module 4 Challenge Lab - Creating a Dynamic Website for the Cafe
 
