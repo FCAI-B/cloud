@@ -26,10 +26,12 @@ Please do the following (<ins>deadline **15 March**</ins>)
 -->
 ---
 
+<!--
 ### Zoom
 - https://us05web.zoom.us/j/82861851614?pwd=1KCjaJbmRJvzLje2Kab3MuZVXNMuSL.1
 - Saturday 03:00 pm
 ---
+-->
 
 ### Adding to AWS Academy (or any other online Academy)
 If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
