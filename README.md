@@ -1,11 +1,16 @@
 # Cloud
 
+```diff
+-  The next lectures will be on 22 April at "Modareg 5", Insha Allah. 
+```
+
 ### Lectures
 - Lectures 1 and 2: please check the above PDF files
 - Lectures 3: please check the AWS Academy course: Module 3 Student Guide
 - Lectures 4 and 5: please check the AWS Academy course: Module 4 Student Guide
 ---
 
+<!--
 ### Tasks to do
 Please do the following (<ins>deadline **31 March**</ins>)
 - Module 4 Knowledge Check
@@ -14,6 +19,8 @@ Please do the following (<ins>deadline **31 March** *(extended)*</ins>)
 - Module 4 Guided Lab - Introducing Amazon Elastic File System (Amazon EFS)
 - Module 4 Challenge Lab - Creating a Dynamic Website for the Cafe
 
+---
+-->
  <!--
 Please do the following (<ins>deadline **23 March**</ins>)
 - Module 3 Guided Lab - Hosting a Static Website
@@ -24,7 +31,7 @@ Please do the following (<ins>deadline **23 March**</ins>)
 Please do the following (<ins>deadline **15 March**</ins>)
 - Module 2 Knowledge Check
 -->
----
+
 
 <!--
 ### Zoom
