@@ -1,10 +1,17 @@
 # Cloud
 
-```diff
--  The next lectures will be on 22 April at "Modareg 5", Insha Allah. 
-```
+### Tasks to do
+Please do the following (<ins>deadline **3 May**</ins>)
+- Module 6 Knowledge Check
+- Module 6 Guided Lab - Creating a Virtual Private Cloud
+- Module 6 Challenge Lab - Creating a VPC Networking Environment for the Cafe
+
+---
 
 ### Lectures
+```diff
++  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
+```
 - Lectures 1 and 2: please check the above PDF files
 - Lectures 3: please check the AWS Academy course: Module 3 Student Guide
 - Lectures 4 and 5: please check the AWS Academy course: Module 4 Student Guide
