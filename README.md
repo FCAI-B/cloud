@@ -1,21 +1,38 @@
 # Cloud
 
+
 ### Tasks to do
+Please do the following (<ins>deadline **15 May**</ins>)
+ - Module 13 - Guided Lab 1: Breaking a Monolithic Node.js Application into Microservices
+ - Module 13 Guided Lab - Implementing a Serverless Architecture with AWS Lambda
+ - Module 13 Challenge Lab - Implementing a Serverless Architecture for the Cafe
+
 Please do the following (<ins>deadline **3 May**</ins>)
 - Module 6 Knowledge Check
 - Module 6 Guided Lab - Creating a Virtual Private Cloud
 - Module 6 Challenge Lab - Creating a VPC Networking Environment for the Cafe
 
+```diff
++  To get a bonus (such as for the Midterm Exam), please complete as many labs and knowledge checks as you can.
+!  To get the certificate (from AWS Academy), please finish all labs and knowledge checks.
+- Oral degrees are based on the online tasks
+```
+
+
 ---
 
 ### Lectures
-```diff
+<!--```diff
 +  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
 ```
+-->
 - Lectures 1 and 2: please check the above PDF files
 - Lectures 3: please check the AWS Academy course: Module 3 Student Guide
 - Lectures 4 and 5: please check the AWS Academy course: Module 4 Student Guide
 - Lectures 6: please check the AWS Academy course: Module 6 Student Guide
+- Lectures 7: please check the above PDF file and the following video
+  - https://youtu.be/99y8G79UGws
+  - Important: You may be asked about what is in the video in the final exam, including command lines.  
 ---
 
 <!--
@@ -29,17 +46,18 @@ Please do the following (<ins>deadline **31 March** *(extended)*</ins>)
 
 ---
 -->
+
  <!--
 Please do the following (<ins>deadline **23 March**</ins>)
 - Module 3 Guided Lab - Hosting a Static Website
 - Module 3 Challenge Lab - Creating a Static Website for the Cafe
 - Module 3 Knowledge Check
 -->
+
 <!--
 Please do the following (<ins>deadline **15 March**</ins>)
 - Module 2 Knowledge Check
 -->
-
 
 <!--
 ### Zoom
