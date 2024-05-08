@@ -1,5 +1,6 @@
 # Cloud
 
+### We have finished our lectures. 
 
 ### Tasks to do
 Please do the following (<ins>deadline **15 May**</ins>)
@@ -7,19 +8,19 @@ Please do the following (<ins>deadline **15 May**</ins>)
  - Module 13 Guided Lab - Implementing a Serverless Architecture with AWS Lambda
  - Module 13 Challenge Lab - Implementing a Serverless Architecture for the Cafe
 
-Please do the following (<ins>deadline **3 May**</ins>)
-- Module 6 Knowledge Check
-- Module 6 Guided Lab - Creating a Virtual Private Cloud
-- Module 6 Challenge Lab - Creating a VPC Networking Environment for the Cafe
-
 ```diff
 +  To get a bonus (such as for the Midterm Exam), please complete as many labs and knowledge checks as you can.
 !  To get the certificate (from AWS Academy), please finish all labs and knowledge checks.
 - Oral degrees are based on the online tasks
 ```
-
-
 ---
+
+<!--
+Please do the following (<ins>deadline **3 May**</ins>)
+- Module 6 Knowledge Check
+- Module 6 Guided Lab - Creating a Virtual Private Cloud
+- Module 6 Challenge Lab - Creating a VPC Networking Environment for the Cafe
+-->
 
 ### Lectures
 <!--```diff
