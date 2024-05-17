@@ -1,5 +1,17 @@
 # Cloud
 
+### Bonus Bdeadline: **24 May**
+
+```diff
++ To get a bonus (such as for the Midterm Exam), please complete as many labs and knowledge checks as you can.
+- Important: labs and knowledge checks that are not asked during the semester.
++ Labs have higher degrees.
+```
+To get the certificate (from AWS Academy), please finish all labs and knowledge checks.
+---
+
+<!--
+- Oral degrees are based on the online tasks
 ### We have finished our lectures. 
 
 ### Tasks to do
@@ -8,14 +20,7 @@ Please do the following (<ins>deadline **15 May**</ins>)
  - Module 13 Guided Lab - Implementing a Serverless Architecture with AWS Lambda
  - Module 13 Challenge Lab - Implementing a Serverless Architecture for the Cafe
 
-```diff
-+  To get a bonus (such as for the Midterm Exam), please complete as many labs and knowledge checks as you can.
-!  To get the certificate (from AWS Academy), please finish all labs and knowledge checks.
-- Oral degrees are based on the online tasks
-```
----
 
-<!--
 Please do the following (<ins>deadline **3 May**</ins>)
 - Module 6 Knowledge Check
 - Module 6 Guided Lab - Creating a Virtual Private Cloud
