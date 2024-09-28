@@ -1,5 +1,12 @@
 # Cloud
 
+
+<!--```diff
++  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
+```
+-->
+
+<!--
 ### Bonus Bdeadline: **24 May**
 
 ```diff
@@ -9,6 +16,9 @@
 ```
 To get the certificate (from AWS Academy), please finish all labs and knowledge checks.
 ---
+-->
+
+
 
 <!--
 - Oral degrees are based on the online tasks
@@ -27,11 +37,9 @@ Please do the following (<ins>deadline **3 May**</ins>)
 - Module 6 Challenge Lab - Creating a VPC Networking Environment for the Cafe
 -->
 
+
+<!--
 ### Lectures
-<!--```diff
-+  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
-```
--->
 - Lectures 1 and 2: please check the above PDF files
 - Lectures 3: please check the AWS Academy course: Module 3 Student Guide
 - Lectures 4 and 5: please check the AWS Academy course: Module 4 Student Guide
@@ -40,6 +48,9 @@ Please do the following (<ins>deadline **3 May**</ins>)
   - https://youtu.be/99y8G79UGws
   - Important: You may be asked about what is in the video in the final exam, including command lines.  
 ---
+-->
+
+
 
 <!--
 ### Tasks to do
@@ -53,6 +64,8 @@ Please do the following (<ins>deadline **31 March** *(extended)*</ins>)
 ---
 -->
 
+
+
  <!--
 Please do the following (<ins>deadline **23 March**</ins>)
 - Module 3 Guided Lab - Hosting a Static Website
@@ -60,10 +73,14 @@ Please do the following (<ins>deadline **23 March**</ins>)
 - Module 3 Knowledge Check
 -->
 
+
+
 <!--
 Please do the following (<ins>deadline **15 March**</ins>)
 - Module 2 Knowledge Check
 -->
+
+
 
 <!--
 ### Zoom
@@ -72,6 +89,8 @@ Please do the following (<ins>deadline **15 March**</ins>)
 ---
 -->
 
+
+<!--
 ### Adding to AWS Academy (or any other online Academy)
 If you are not added, please send an email from your Academic mail (ended by fci.bu.edu.eg). The email should contain:
 - Your full Arabic name, as shown on your official faculty ID
@@ -86,7 +105,9 @@ If you are not added, please send an email from your Academic mail (ended by fci
 ``` 
 ---
 
-### For 1st Term Course
+-->
+
+### For who completed the Course before
 - For those who completed the course, please check your inbox (including the spam and junk folders) for a badge from Credly. 
 - Once accepting the Credly badge, you will receive an invite to the Emerging Talent community and the opportunity to earn a certification exam voucher.
 
