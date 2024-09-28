@@ -1,10 +1,10 @@
 # Cloud
 
 
-<!--```diff
-+  The next lectures will be on 29 April at "Modareg 5", Insha Allah. 
+```diff
+-  There are no cloud or data warehousing lectures tomorrow, 29 September 2024. 
 ```
--->
+<!--  The next lectures will be on 29 April at "Modareg 5", Insha Allah. -->
 
 <!--
 ### Bonus Bdeadline: **24 May**
@@ -107,8 +107,8 @@ If you are not added, please send an email from your Academic mail (ended by fci
 
 -->
 
-### For who completed the Course before
-- For those who completed the course, please check your inbox (including the spam and junk folders) for a badge from Credly. 
+### For those who completed the Course before
+- Please check your inbox (including the spam and junk folders) for a badge from Credly. 
 - Once accepting the Credly badge, you will receive an invite to the Emerging Talent community and the opportunity to earn a certification exam voucher.
 
 <!--
