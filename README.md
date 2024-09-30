@@ -1,12 +1,12 @@
 # Cloud
 
 
-```diff
--  There are no cloud or data warehousing lectures tomorrow, 29 September 2024. 
-```
 <!--  The next lectures will be on 29 April at "Modareg 5", Insha Allah. -->
 
 <!--
+```diff
+-  There are no cloud or data warehousing lectures tomorrow, 29 September 2024. 
+```
 ### Bonus Bdeadline: **24 May**
 
 ```diff
