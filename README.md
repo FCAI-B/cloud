@@ -1,5 +1,9 @@
 # Cloud
 
+```diff
+- Our next lecture will be online on Friday, 18 Oct, at 8:00 pm.
++ The link will be shared here soon.
+```
 
 <!--  The next lectures will be on 29 April at "Modareg 5", Insha Allah. -->
 
