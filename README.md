@@ -2,7 +2,8 @@
 
 ```diff
 - Our next lecture will be online on Friday, 18 Oct, at 8:00 pm.
-+ Google Meet link: https://meet.google.com/onj-pkzn-tme
++ Google Meet link 1: https://meet.google.com/onj-pkzn-tme
++ Google Meet link 2: https://meet.google.com/pay-eveb-ebt
 ```
 
 <!--  The next lectures will be on 29 April at "Modareg 5", Insha Allah. -->
