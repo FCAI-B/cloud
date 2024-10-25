@@ -4,11 +4,11 @@
 ```diff
 - Our lecture will be online on Friday at 8:00 pm.
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/onj-pkzn-tme
-
++ Google Meet link for the 2nd part of the lecture: https://meet.google.com/pay-eveb-ebt
 ```
 
 <!--
-+ Google Meet link for the 2nd part of the lecture: https://meet.google.com/pay-eveb-ebt
+
 The next lectures will be on 29 April at "Modareg 5", Insha Allah. -->
 
 <!--
