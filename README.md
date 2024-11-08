@@ -5,12 +5,16 @@ Please do the following (<ins>deadline **12 Nov**</ins>)
  - Module 7 Guided lab: Creating a Virtual Private Cloud
  - Module 7 Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
  - Module 7 Knowledge Check
+
+Please do the following (<ins>deadline **22 Nov**</ins>)
+ - Module 3 Guided Lab: Exploring AWS Identity and Access Management (IAM)
+ - Module 3 Knowledge Check
 ---
 
 ### Lectures
 - Lectures 1 and 2: please check the above PDF files
 - Lectures 3: please check the AWS Academy course --> Module 7 Student Guide
-- Lectures 4: please check the AWS Academy course --> Module 3 Student Guide
+- Lectures 4 and 5: please check the AWS Academy course --> Module 3 Student Guide
 
 ---
 
