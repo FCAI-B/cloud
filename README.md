@@ -1,7 +1,7 @@
 # Cloud
 
 ### Tasks to do
-Please do the following (<ins>deadline **12 Nov**</ins>)
+Please do the following (<ins>deadline **12 Nov**</ins>) & (For those <ins>who added on 13 Nov </ins>to the course, the deadline is **17 Nov**)
  - Module 7 Guided lab: Creating a Virtual Private Cloud
  - Module 7 Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
  - Module 7 Knowledge Check
