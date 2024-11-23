@@ -1,7 +1,7 @@
 # Cloud
 
 ```diff
-- No lecture on 22 Nov.
+
 ```
 
 ### Tasks to do
