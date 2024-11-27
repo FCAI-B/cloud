@@ -1,6 +1,7 @@
 # Cloud
 
 ```diff
++ Our next lecture will be online on Friday 29 Nov at 8:00 pm.
 
 ```
 
