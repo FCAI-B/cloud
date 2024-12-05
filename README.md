@@ -1,9 +1,11 @@
 # Cloud
 
 ```diff
-+ Our next lecture will be online on Friday 29 Nov at 8:00 pm.
-
+- There is no lecture tomorrow (6 Dec.)
 ```
+<!--
++ Our next lecture will be online on Friday 29 Nov at 8:00 pm.
+-->
 
 ### Tasks to do
 Please do the following (<ins>deadline **12 Nov**</ins>) & (For those <ins>who added on 13 Nov </ins>to the course, the deadline is **17 Nov**)
