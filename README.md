@@ -1,13 +1,20 @@
 # Cloud
 
 ```diff
-- There is no lecture tomorrow (6 Dec.)
++ Our next lecture will be online on Friday 13 Dec at 8:00 pm.
 ```
 <!--
-+ Our next lecture will be online on Friday 29 Nov at 8:00 pm.
++ Our next lecture will be online on Friday 13 Dec at 8:00 pm.
+- There is no lecture tomorrow (6 Dec.)
 -->
 
 ### Tasks to do
+Please do the following (<ins>deadline **14 Dec**</ins>) 
+ - Module 4 Challenge (Cafe) lab: Creating a Static Website for the Cafe
+ - Module 4 Knowledge Check
+
+---
+<!--
 Please do the following (<ins>deadline **12 Nov**</ins>) & (For those <ins>who added on 13 Nov </ins>to the course, the deadline is **17 Nov**)
  - Module 7 Guided lab: Creating a Virtual Private Cloud
  - Module 7 Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
@@ -16,13 +23,14 @@ Please do the following (<ins>deadline **12 Nov**</ins>) & (For those <ins>who a
 Please do the following (<ins>deadline **22 Nov**</ins>)
  - Module 3 Guided Lab: Exploring AWS Identity and Access Management (IAM)
  - Module 3 Knowledge Check
----
+-->
+
 
 ### Lectures
 - Lectures 1 and 2: please check the above PDF files
 - Lectures 3: please check the AWS Academy course       >> Module 7 Student Guide
 - Lectures 4 and 5: please check the AWS Academy course >> Module 3 Student Guide
-
+- Lectures 6: please check the AWS Academy course >> Module 4 Student Guide
 ---
 
 ```diff
