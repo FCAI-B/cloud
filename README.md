@@ -16,12 +16,14 @@ Please do the following (<ins>deadline **24 Dec**</ins>)
  - Module 5 Challenge (Cafe) lab: Creating a Dynamic Website for the Café
  - Module 5 Knowledge Check
    
-Please do the following (<ins>deadline **14 Dec**</ins>) 
- - Module 4 Challenge (Cafe) lab: Creating a Static Website for the Cafe
- - Module 4 Knowledge Check
+
 
 ---
 <!--
+Please do the following (<ins>deadline **14 Dec**</ins>) 
+ - Module 4 Challenge (Cafe) lab: Creating a Static Website for the Cafe
+ - Module 4 Knowledge Check
+ 
 Please do the following (<ins>deadline **12 Nov**</ins>) & (For those <ins>who added on 13 Nov </ins>to the course, the deadline is **17 Nov**)
  - Module 7 Guided lab: Creating a Virtual Private Cloud
  - Module 7 Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
