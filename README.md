@@ -1,7 +1,7 @@
 # Cloud
 
 ```diff
-
+We have finished the course. I wish you all the best in your exams.
 ```
 <!--
 + Our next lecture will be online on Friday 13 Dec at 8:00 pm.
