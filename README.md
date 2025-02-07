@@ -1,25 +1,25 @@
 # Cloud
 
 ```diff
-+ We have finished the course. I wish you all the best in your exams.
+- There are no lectures on 8 and 9 Feb 2025
 ```
+
 <!--
 + Our next lecture will be online on Friday 13 Dec at 8:00 pm.
 + Our next lecture will be online on Friday 13 Dec at 8:00 pm.
 - There is no lecture tomorrow (6 Dec.)
 -->
 
+---
+
+<!--
 ### Tasks to do
 
 Please do the following (<ins>deadline **24 Dec**</ins>) 
  - Module 5 Guided lab: Introducing Amazon Elastic File System (Amazon EFS)
  - Module 5 Challenge (Cafe) lab: Creating a Dynamic Website for the Café
  - Module 5 Knowledge Check
-   
 
-
----
-<!--
 Please do the following (<ins>deadline **14 Dec**</ins>) 
  - Module 4 Challenge (Cafe) lab: Creating a Static Website for the Cafe
  - Module 4 Knowledge Check
@@ -34,7 +34,7 @@ Please do the following (<ins>deadline **22 Nov**</ins>)
  - Module 3 Knowledge Check
 -->
 
-
+<!--
 ### Lectures
 - Lectures 1 and 2: please check the above PDF files
 - Lectures 3: please check the AWS Academy course       >> Module 7 Student Guide
@@ -42,13 +42,15 @@ Please do the following (<ins>deadline **22 Nov**</ins>)
 - Lectures 6: please check the AWS Academy course >> Module 4 Student Guide
 - Lectures 7: please check the AWS Academy course >> Module 5 Student Guide
 ---
+-->
 
+<!--
 ```diff
 - Our lecture will be online on Friday at 8:00 pm.
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/onj-pkzn-tme
 + Google Meet link for the 2nd part of the lecture: https://meet.google.com/pay-eveb-ebt
 ```
-
+-->
 <!--
 
 The next lectures will be on 29 April at "Modareg 5", Insha Allah. -->
