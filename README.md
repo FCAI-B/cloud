@@ -1,8 +1,10 @@
 # Cloud
 
+<!--
 ```diff
 - There are no lectures on 15 and 16 Feb 2025
 ```
+-->
 
 <!--
 + Our next lecture will be online on Friday 13 Dec at 8:00 pm.
