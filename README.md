@@ -1,5 +1,10 @@
 # Cloud
 
+## Meet Links
+- Saturday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
+- Saturday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
+
+
 <!--
 ```diff
 - There are no lectures on 15 and 16 Feb 2025
