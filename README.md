@@ -1,8 +1,35 @@
-# Cloud
-
 ## Meet Links
 - Saturday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
 - Saturday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
+---
+
+## The Lectures
+- Lecture 1: The above file 25T2_Cloud_01.pdf
+- Lecture 2: The above file 25T2_Cloud_02.pdf
+- Lecture 3: Module 4 from the AWS course (concentrate on the Student guide)
+---
+
+## Tasks to do
+Please do the following (<ins>deadline **19 Mar** </ins>)
+```diff
++ Challenge (Cafe) lab: Creating a Static Website for the Cafe
++ Module 4 Knowledge Check
+```
+---
+
+## To have degrees from the online tasks in the AWS course
+```diff
+- After being added to AWS Academy, please keep your Academic email and Arabic Full name as it is
++ The purpose of the previous point is to be sure you have your correct degrees based on your work in the course
+! Furthermore, AWS Academy is an academic platform, so we need to use our Academic emails
+``` 
+---
+
+## For those who completed the Course before
+- Please check your inbox (including the spam and junk folders) for a badge from Credly. 
+- Once accepting the Credly badge, you will receive an invite to the Emerging Talent community and the opportunity to earn a certification exam voucher.
+---
+
 
 
 <!--
@@ -160,18 +187,7 @@ If you are not added, please send an email from your Academic mail (ended by fci
 
 -->
 
- ```diff
-- After being added to AWS Academy, please keep your Academic email and Arabic Full name as it is
-+ The purpose of the previous point is to be sure you have your correct degrees based on your work in the course
-! Furthermore, AWS Academy is an academic platform, so we need to use our Academic emails
-``` 
----
-
-
-### For those who completed the Course before
-- Please check your inbox (including the spam and junk folders) for a badge from Credly. 
-- Once accepting the Credly badge, you will receive an invite to the Emerging Talent community and the opportunity to earn a certification exam voucher.
-
+ 
 <!--
 ### Practical Demo
 - https://youtu.be/99y8G79UGws
