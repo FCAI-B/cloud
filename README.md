@@ -3,10 +3,11 @@
 - Saturday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
 ---
 
-## The Lectures
-- Lecture 1: The above file 25T2_Cloud_01.pdf
-- Lecture 2: The above file 25T2_Cloud_02.pdf
-- Lecture 3: Module 4 from the AWS course (concentrate on the Student guide)
+## Course Content
+- The above file "25T2_Cloud_01.pdf"
+- The above file "25T2_Cloud_02.pdf"
+- Module 7 from the AWS course (concentrate on the Student guide)
+- Module 4 from the AWS course (concentrate on the Student guide)
 ---
 
 ## Tasks to do
