@@ -8,14 +8,32 @@
 - The above file "25T2_Cloud_02.pdf"
 - Module 7 from the AWS course (concentrate on the Student guide)
 - Module 4 from the AWS course (concentrate on the Student guide)
+- Module 5 from the AWS course (concentrate on the Student guide)
 ---
 
 ## Tasks to do
+Please do the following (<ins>deadline **28 Mar** </ins>)
+```diff
++ Guided lab: Creating a Virtual Private Cloud
++ Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
++ Module 7 Knowledge Check
++ Guided lab: Introducing Amazon Elastic File System (Amazon EFS)
++ Challenge (Cafe) lab: Creating a Dynamic Website for the Café
++ Module 5 Knowledge Check
+```
+---
+
+
+
 Please do the following (<ins>deadline **19 Mar** </ins>)
 ```diff
 + Challenge (Cafe) lab: Creating a Static Website for the Cafe
 + Module 4 Knowledge Check
 ```
+---
+
+
+
 ---
 
 ## To have degrees from the online tasks in the AWS course
