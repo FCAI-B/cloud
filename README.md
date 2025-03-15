@@ -23,8 +23,6 @@ Please do the following (<ins>deadline **28 Mar** </ins>)
 ```
 ---
 
-
-
 Please do the following (<ins>deadline **19 Mar** </ins>)
 ```diff
 + Challenge (Cafe) lab: Creating a Static Website for the Cafe
@@ -32,8 +30,9 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 ```
 ---
 
-
-
+## To be added to the AWS course
+- You will upload your data using a form.
+- You can contact the TA in the sections, especially Eng. Shereen, to ask about the form link.
 ---
 
 ## To have degrees from the online tasks in the AWS course
