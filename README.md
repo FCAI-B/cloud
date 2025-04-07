@@ -1,24 +1,10 @@
-## Meet Links
+<!--
 ```diff
 - The 5th April lecture will be online at 7:00 pm at the below links:
 ```
 - Saturday 1st part 7:00 pm https://meet.google.com/pdh-gvnk-hid
 - Saturday 2nd part 8:00 pm https://meet.google.com/pay-eveb-ebt (if we need)
----
-<!--
-- Saturday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
-- Saturday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
--->
 
-## Course Content
-- The above file "25T2_Cloud_01.pdf"
-- The above file "25T2_Cloud_02.pdf"
-- Module 7 from the AWS course (concentrate on the Student guide)
-- Module 4 from the AWS course (concentrate on the Student guide)
-- Module 5 from the AWS course (concentrate on the Student guide)
----
-
-## Tasks to do
 Please do the following (<ins>deadline **28 Mar** </ins>)
 ```diff
 + Guided lab: Creating a Virtual Private Cloud
@@ -35,11 +21,35 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 + Challenge (Cafe) lab: Creating a Static Website for the Cafe
 + Module 4 Knowledge Check
 ```
+
+-->
+
+## Meet Links
+- Saturday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
+- Saturday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
+---
+
+## Course Content
+- The above file "25T2_Cloud_01.pdf"
+- The above file "25T2_Cloud_02.pdf"
+- Module 7 from the AWS course (concentrate on the Student guide)
+- Module 4 from the AWS course (concentrate on the Student guide)
+- Module 5 from the AWS course (concentrate on the Student guide)
+- Module 6 from the AWS course (concentrate on the Student guide)
+---
+
+## Tasks to do
+Please do the following (<ins>deadline **17 April** </ins>)
+```diff
++ Guided lab: Creating an Amazon RDS Database
++ Challenge (Cafe) lab: Migrating a Database to Amazon RDS
++ Module 6 Knowledge Check
+```
 ---
 
 ## To be added to the AWS course
 - You will upload your data using a form.
-- You can contact the TA in the sections, especially Eng. Shereen, to ask about the form link.
+- You can contact the TA in the sections to ask about the form link.
 ---
 
 ## To have degrees from the online tasks in the AWS course
