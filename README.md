@@ -22,10 +22,11 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 + Module 4 Knowledge Check
 ```
 
--->
 ```diff
 - The 12th April lecture will be online at 8:30 pm at the below links:
 ```
+-->
+
 ## Meet Links
 - Saturday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
 - Saturday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
@@ -34,13 +35,19 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 ## Course Content
 - The above file "25T2_Cloud_01.pdf"
 - The above file "25T2_Cloud_02.pdf"
-- Module 7 from the AWS course (concentrate on the Student guide)
 - Module 4 from the AWS course (concentrate on the Student guide)
 - Module 5 from the AWS course (concentrate on the Student guide)
 - Module 6 from the AWS course (concentrate on the Student guide)
+- Module 7 from the AWS course (concentrate on the Student guide)
+- Module 8 from the AWS course (concentrate on the Student guide)
 ---
 
 ## Tasks to do
+Please do the following (<ins>deadline **24 April** </ins>)
+```diff
++ Guided lab: Creating a VPC Peering Connection
++ Module 8 Knowledge Check
+```
 Please do the following (<ins>deadline **17 April** </ins>)
 ```diff
 + Guided lab: Creating an Amazon RDS Database
