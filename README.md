@@ -1,6 +1,7 @@
 <!--
 ```diff
 - The 5th April lecture will be online at 7:00 pm at the below links:
+-The 19th April lecture will be online at 8:30 pm at the below links:
 ```
 - Saturday 1st part 7:00 pm https://meet.google.com/pdh-gvnk-hid
 - Saturday 2nd part 8:00 pm https://meet.google.com/pay-eveb-ebt (if we need)
@@ -28,7 +29,7 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 -->
 
 ```diff
-- The 19th April lecture will be online at 8:30 pm at the below links:
+- If I don't join at 8:40 for the Saturday lecture (26 April), you can leave the call, as our lecture will be postponed
 ```
 
 ## Meet Links
