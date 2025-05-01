@@ -25,11 +25,12 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 
 ```diff
 - The 12th April lecture will be online at 8:30 pm at the below links:
+- - If I don't join at 8:40 for the Saturday lecture (26 April), you can leave the call, as our lecture will be postponed
 ```
 -->
 
 ```diff
-- If I don't join at 8:40 for the Saturday lecture (26 April), you can leave the call, as our lecture will be postponed
+
 ```
 
 ## Meet Links
