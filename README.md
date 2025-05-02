@@ -30,7 +30,7 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 -->
 
 ```diff
-
++ Our next lecture on Saturday, 03 May, will be online at 8:30 pm at the below links
 ```
 
 ## Meet Links
