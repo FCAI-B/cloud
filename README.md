@@ -82,6 +82,16 @@ Please do the following (<ins>deadline **17 May** </ins>)
 ```
 ---
 
+## Bonus 
+```diff
++ To get a bonus, please complete as many labs and knowledge checks as you can.
+! Important: labs and knowledge checks that are not asked during the semester.
++ Labs have higher degrees.
+! To get the certificate (from AWS Academy), please finish all labs and knowledge checks.
+```
+<!-- deadline: **** -->
+---
+
 ## To be added to the AWS course
 - You will upload your data using a form.
 - You can contact the TA in the sections to ask about the form link.
@@ -91,7 +101,7 @@ Please do the following (<ins>deadline **17 May** </ins>)
 ```diff
 - After being added to AWS Academy, please keep your Academic email and Arabic Full name as it is
 + The purpose of the previous point is to be sure you have your correct degrees based on your work in the course
-! Furthermore, AWS Academy is an academic platform, so we need to use our Academic emails
++ Furthermore, AWS Academy is an academic platform, so we need to use our Academic emails
 ``` 
 ---
 
@@ -163,7 +173,7 @@ The next lectures will be on 29 April at "Modareg 5", Insha Allah. -->
 ```diff
 -  There are no cloud or data warehousing lectures tomorrow, 29 September 2024. 
 ```
-### Bonus Bdeadline: **24 May**
+### Bonus deadline: **24 May**
 
 ```diff
 + To get a bonus (such as for the Midterm Exam), please complete as many labs and knowledge checks as you can.
