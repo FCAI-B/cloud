@@ -1,10 +1,29 @@
 <!--
+
 ```diff
 - The 5th April lecture will be online at 7:00 pm at the below links:
--The 19th April lecture will be online at 8:30 pm at the below links:
+- The 19th April lecture will be online at 8:30 pm at the below links:
+- The 12th April lecture will be online at 8:30 pm at the below links:
+- If I don't join at 8:40 for the Saturday lecture (26 April), you can leave the call, as our lecture will be postponed
++ Our next lecture on Saturday, 03 May, will be online at 8:30 pm at the below links
 ```
+
 - Saturday 1st part 7:00 pm https://meet.google.com/pdh-gvnk-hid
 - Saturday 2nd part 8:00 pm https://meet.google.com/pay-eveb-ebt (if we need)
+
+Please do the following (<ins>deadline **24 April** </ins>)
+```diff
++ Guided lab: Creating a VPC Peering Connection
++ Module 8 Knowledge Check
+```
+
+Please do the following (<ins>deadline **17 April** </ins>)
+```diff
++ Guided lab: Creating an Amazon RDS Database
++ Challenge (Cafe) lab: Migrating a Database to Amazon RDS
++ Module 6 Knowledge Check
+```
+---
 
 Please do the following (<ins>deadline **28 Mar** </ins>)
 ```diff
@@ -23,20 +42,17 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 + Module 4 Knowledge Check
 ```
 
-```diff
-- The 12th April lecture will be online at 8:30 pm at the below links:
-- - If I don't join at 8:40 for the Saturday lecture (26 April), you can leave the call, as our lecture will be postponed
-```
--->
-
-```diff
-+ Our next lecture on Saturday, 03 May, will be online at 8:30 pm at the below links
-```
-
 ## Meet Links
 - Saturday 1st part 8:30 https://meet.google.com/pdh-gvnk-hid
 - Saturday 2nd part 9:30 https://meet.google.com/pay-eveb-ebt (if we need)
 ---
+
+-->
+
+
+```diff
+
+```
 
 ## Course Content
 - The above file "25T2_Cloud_01.pdf"
@@ -46,19 +62,23 @@ Please do the following (<ins>deadline **19 Mar** </ins>)
 - Module 6 from the AWS course (concentrate on the Student guide)
 - Module 7 from the AWS course (concentrate on the Student guide)
 - Module 8 from the AWS course (concentrate on the Student guide)
+- Module 9 from the AWS course (concentrate on the Student guide)
+- Module 14 from the AWS course (concentrate on the Student guide)
 ---
 
 ## Tasks to do
-Please do the following (<ins>deadline **24 April** </ins>)
+Please do the following (<ins>deadline **10 May** </ins>)
 ```diff
-+ Guided lab: Creating a VPC Peering Connection
-+ Module 8 Knowledge Check
++ Guided lab: Securing Applications by using Amazon Cognito
++ Guided lab: Encrypting Data at Rest by Using AWS Encryption Options
++ Module 9 Knowledge Check
 ```
-Please do the following (<ins>deadline **17 April** </ins>)
+Please do the following (<ins>deadline **17 May** </ins>)
 ```diff
-+ Guided lab: Creating an Amazon RDS Database
-+ Challenge (Cafe) lab: Migrating a Database to Amazon RDS
-+ Module 6 Knowledge Check
++ Guided lab: Implementing a Serverless Architecture on AWS
++ Guided lab: Breaking a Monolithic Node.js Application into Microservices
++ Challenge (Café) lab: Implementing a Serverless Architecture for the Café
++ Module 14 Knowledge Check
 ```
 ---
 
